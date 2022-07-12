@@ -2,7 +2,7 @@
 
 A sample for a demo website for an African Restaurant *The Gamba Restaurant*
 
-Click <a href=''>here</a> to view the hosted website.
+Click <a href='https://mayank-141-shaw.github.io/Gamba-Restaurant-Website/'>here</a> to view the hosted website.
 
 ### The front landing section
 <img src='https://github.com/Mayank-141-Shaw/Gamba-Restaurant-Website/blob/main/screenshots/landing.png' />
